@@ -1,9 +1,6 @@
 hi
 biotany
 hi zooo
-hi chemistry
-<<<<<<< HEAD
+hi chemistyu
 jenkins
-=======
-
->>>>>>> fc1fd7812a5e430315da87cefc05bada0533ce2e
+bambo
